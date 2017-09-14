@@ -1,1 +1,2 @@
 Its my file
+Append right string
